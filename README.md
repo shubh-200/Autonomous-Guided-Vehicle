@@ -15,8 +15,6 @@ A custom world is modelled to replicate a restaurant layout. Robot Operating Sys
 ![Logo](https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/2X/7/781fa8ce870432b9682a95f855b315c454da87c7_2_138x250.png)
 
 
-## Demo
-
 
 ## Run Locally
 
